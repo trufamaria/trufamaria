@@ -6,7 +6,7 @@ I study how hostile and political content spreads across platforms in the United
 
 ## Selected work
 
-- **X vs. Bluesky, 2026 U.S. midterms.** Comparative network analysis of election discussion on both platforms. Also, LLM text classification. Classifying survey qualitative question with language models, with validation against human coding [repo](https://github.com/trufamaria/x-bluesky-midterm-networks)
+- **Network Analysis - X vs. Bluesky elections in 3 countries.** Comparative network analysis of election discussion on both platforms. Also, LLM text classification. Classifying survey qualitative question with language models, with validation against human coding [repo](https://github.com/trufamaria/x-bluesky-midterm-networks)
   
 - **Dissertation analysis in R.** Mediation and SEM models comparing the U.S. and Brazil. [repo](https://github.com/trufamaria/Dissertation-analysis-in-R/tree/main) 
 
