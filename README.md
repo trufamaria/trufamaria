@@ -10,7 +10,8 @@ I study how hostile and political content spreads across platforms in the United
   
 - **Dissertation analysis in R.** Mediation and SEM models comparing the U.S. and Brazil. [repo](https://github.com/trufamaria/Dissertation-analysis-in-R/tree/main)
   
-- **Telegram data collection and analysis.** Channel data pipeline built on telegram-tracker. [repo]
+- **Telegram data collection and analysis.** Channel data pipeline built on telegram-tracker. [repo](https://github.com/trufamaria/telegram.git)
+
 - **LLM text classification.** Classifying survey qualitative question with language models, with validation against human coding. [repo]
   
 ## Tools
