@@ -24,3 +24,6 @@ Python, R (lavaan, ggplot2), NodeXL, Gephi, Telegram API, ATLAS.ti, Tableau
 ## Contact
 
 [marinapetric.com](https://marinapetric.com) · mpetric@ttu.edu
+
+
+Trufa Maria is my dog. 
