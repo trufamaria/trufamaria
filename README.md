@@ -15,7 +15,7 @@ I study how hostile and political content spreads across platforms in the United
 
 - **LLM text classification.** Classifying Telegram channels with language models. Initial pass for validation agains human coding. [repo](https://github.com/trufamaria/Telegram-Thematic-Network.git)
 
-- **LLM text classification.** Classifying Brazilian Medical Telegram channel with language models (initial pass for validation agains human coding) and network analysis [repo](https://github.com/trufamaria/Telegram-Thematic-Network.git)
+- **LLM text classification and Network Analysis.** Classifying Brazilian Medical Telegram channel with language models (initial pass for validation agains human coding) and network analysis [repo](https://github.com/trufamaria/Telegram-Thematic-Network.git)
   
 ## Tools
 
