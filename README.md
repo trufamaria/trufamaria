@@ -13,7 +13,7 @@ I study how hostile and political content spreads across platforms in the United
   
 - **Telegram data collection and analysis.** Channel data pipeline built on telegram-tracker. [repo](https://github.com/trufamaria/telegram.git)
 
-- **LLM text classification.** Classifying survey qualitative question with language models, with validation against human coding. [repo]
+- **LLM text classification.** Classifying Telegram channels with language models. Initial pass for validation agains human coding. [repo]
   
 ## Tools
 
