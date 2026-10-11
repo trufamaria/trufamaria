@@ -6,9 +6,10 @@ I study how hostile and political content spreads across platforms in the United
 
 ## Selected work
 
-- **X vs. Bluesky, 2026 U.S. midterms.** Comparative network analysis of election discussion on both platforms. [repo](https://github.com/trufamaria/x-bluesky-midterm-networks)
+- **X vs. Bluesky, 2026 U.S. midterms.** Comparative network analysis of election discussion on both platforms. Also, LLM text classification. Classifying survey qualitative question with language models, with validation against human coding [repo](https://github.com/trufamaria/x-bluesky-midterm-networks)
   
-- **Dissertation analysis in R.** Mediation and SEM models comparing the U.S. and Brazil. [repo](https://github.com/trufamaria/Dissertation-analysis-in-R/tree/main)
+- **Dissertation analysis in R.** Mediation and SEM models comparing the U.S. and Brazil. [repo](https://github.com/trufamaria/Dissertation-analysis-in-R/tree/main) 
+
   
 - **Telegram data collection and analysis.** Channel data pipeline built on telegram-tracker. [repo](https://github.com/trufamaria/telegram.git)
 
