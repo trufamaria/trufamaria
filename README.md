@@ -26,4 +26,4 @@ Python, R (lavaan, ggplot2), NodeXL, Gephi, Telegram API, ATLAS.ti, Tableau
 [marinapetric.com](https://marinapetric.com) · mpetric@ttu.edu
 
 
-Trufa Maria is my dog. 
+Trufa, or Trufa Maria, was my dog. I started this account many years ago and kept its name.
